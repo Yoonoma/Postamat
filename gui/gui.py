@@ -11,10 +11,8 @@ class Ui_MainWindow(object):
         self.list_cell_buttons = []
         self.list_virtual_keyboard_buttons = []
 
-
-
         self.font_btn_dialog = QtGui.QFont()
-        self.font_btn_dialog.setPointSize(14)
+        self.font_btn_dialog.setPointSize(20)
 
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("Postamat")
@@ -22,7 +20,7 @@ class Ui_MainWindow(object):
         MainWindow.setMinimumSize(QtCore.QSize(0, 0))
 
         font_btn = QtGui.QFont()
-        font_btn.setPointSize(16)
+        font_btn.setPointSize(20)
 
         font_virtual_keyboard_num = QtGui.QFont()
         font_virtual_keyboard_num.setPointSize(18)
@@ -31,7 +29,7 @@ class Ui_MainWindow(object):
         font_virtual_keyboard_action.setPointSize(16)
 
         font_btn_cells = QtGui.QFont()
-        font_btn_cells.setPointSize(14)
+        font_btn_cells.setPointSize(18)
 
         self.qr_data = QLineEdit()
         self.rfid_data = QLineEdit()
@@ -42,11 +40,11 @@ class Ui_MainWindow(object):
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.verticalLayout = QtWidgets.QVBoxLayout(self.centralwidget)
-        self.verticalLayout.setContentsMargins(0, 0, 0, 0)
+        self.verticalLayout.setContentsMargins(30, 0, 30, 20)
         self.verticalLayout.setSpacing(0)
         self.verticalLayout.setObjectName("verticalLayout")
         self.frame_top_board = QtWidgets.QFrame(self.centralwidget)
-        self.frame_top_board.setMinimumSize(QtCore.QSize(0, 50))
+        self.frame_top_board.setMinimumSize(QtCore.QSize(0, 70))
         self.frame_top_board.setStyleSheet("background-color: rgb(0, 102, 153);")
         self.frame_top_board.setFrameShape(QtWidgets.QFrame.StyledPanel)
         self.frame_top_board.setFrameShadow(QtWidgets.QFrame.Raised)
@@ -55,13 +53,13 @@ class Ui_MainWindow(object):
         self.horizontalLayout_2.setObjectName("horizontalLayout_2")
         self.lbl_board_info = QtWidgets.QLabel(self.frame_top_board)
         font = QtGui.QFont()
-        font.setPointSize(14)
+        font.setPointSize(20)
         self.lbl_board_info.setFont(font)
         self.lbl_board_info.setObjectName("lbl_board_info")
         self.horizontalLayout_2.addWidget(self.lbl_board_info)
         self.lbl_board_time = QtWidgets.QLabel(self.frame_top_board)
         font = QtGui.QFont()
-        font.setPointSize(14)
+        font.setPointSize(20)
         self.lbl_board_time.setFont(font)
         self.lbl_board_time.setFocusPolicy(QtCore.Qt.NoFocus)
         self.lbl_board_time.setTextFormat(QtCore.Qt.AutoText)
@@ -79,8 +77,6 @@ class Ui_MainWindow(object):
         self.page_home.setObjectName("page_home")
         self.verticalLayout_4 = QtWidgets.QVBoxLayout(self.page_home)
         self.verticalLayout_4.setObjectName("verticalLayout_4")
-
-
 
         self.lbl_home_info = QtWidgets.QLabel(self.page_home)
         font = QtGui.QFont()
@@ -158,6 +154,9 @@ class Ui_MainWindow(object):
         self.hLayout_admin_btn = QtWidgets.QHBoxLayout()
         self.hLayout_admin_btn.setSpacing(8)
         self.hLayout_admin_btn.setObjectName("hLayout_admin_btn")
+        self.hLayout_admin_btn.setContentsMargins(10, 0, 0, 0)
+        self.hLayout_admin_btn.setSpacing(20)  # Растояние между кнопками
+
         self.btn_admin_home = QtWidgets.QPushButton(self.page_admin_cells)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
@@ -190,7 +189,9 @@ class Ui_MainWindow(object):
         self.hLayout_admin_info_2 = QtWidgets.QHBoxLayout()
         self.hLayout_admin_info_2.setSizeConstraint(QtWidgets.QLayout.SetNoConstraint)
         self.hLayout_admin_info_2.setObjectName("hLayout_admin_info_2")
+
         self.lbl_admin_inf2 = QtWidgets.QLabel(self.page_admin_cells)
+
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Maximum, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
@@ -222,6 +223,7 @@ class Ui_MainWindow(object):
         self.verticalLayout_2.addLayout(self.hLayout_admin_info_2)
         self.gridLayout_admin_btn_cells = QtWidgets.QGridLayout()
         self.gridLayout_admin_btn_cells.setObjectName("gridLayout_admin_btn_cells")
+        self.gridLayout_admin_btn_cells.setContentsMargins(5, 5, 5, 10)
         self.btn_cell1 = QtWidgets.QPushButton(self.page_admin_cells)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Expanding)
         sizePolicy.setHorizontalStretch(0)
@@ -411,14 +413,16 @@ class Ui_MainWindow(object):
         for btn in self.list_cell_buttons:
             btn.setFont(font_btn_cells)
 
-
         self.verticalLayout_2.addLayout(self.gridLayout_admin_btn_cells)
         self.stackedWidget.addWidget(self.page_admin_cells)
         self.page_admin_staff = QtWidgets.QWidget()
         self.page_admin_staff.setObjectName("page_admin_staff")
+        self.page_admin_staff.setContentsMargins(10,0,10,10)
+
         self.verticalLayout_3 = QtWidgets.QVBoxLayout(self.page_admin_staff)
         self.verticalLayout_3.setObjectName("verticalLayout_3")
         self.horizontalLayout = QtWidgets.QHBoxLayout()
+        self.verticalLayout_3.setSpacing(15)
         self.horizontalLayout.setObjectName("horizontalLayout")
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
@@ -457,10 +461,9 @@ class Ui_MainWindow(object):
         self.table_user.resizeColumnsToContents()  # Размер столбцов по содержимому
         self.table_user.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)  # Растянуть таблицу на весь виджет
         self.table_user.setEditTriggers(QAbstractItemView.NoEditTriggers)  # Запрет на редактирование ячеек
-        self.table_user.setStyleSheet("font-size: 16px;") # Шрифт
-        self.table_user.horizontalHeader().setDefaultSectionSize(60) # ширина ячеек
+        self.table_user.setStyleSheet("font-size: 20px;")  # Шрифт
+        self.table_user.horizontalHeader().setDefaultSectionSize(60)  # ширина ячеек
         self.table_user.verticalHeader().setDefaultSectionSize(60)  # высота ячеек
-
 
         self.verticalLayout_6.addWidget(self.table_user)
 
@@ -470,6 +473,7 @@ class Ui_MainWindow(object):
         self.btn_tab_staff_add_new_key.setObjectName("btn_tab_staff_add_new_key")
         self.hLayout_tab_staff_btn.addWidget(self.btn_tab_staff_add_new_key)
         self.btn_tab_staff_add_new_key.setMinimumSize(50, 50)
+        self.btn_tab_staff_add_new_key.setFont(font_btn)
         self.btn_tab_staff_delete_key = QtWidgets.QPushButton(self.tab_staff)
 
         self.btn_tab_staff_delete_key.setFont(font_btn)
@@ -482,7 +486,6 @@ class Ui_MainWindow(object):
         self.tab_log.setObjectName("tab_log")
         self.tabWidget.addTab(self.tab_log, "")
 
-
         # Журнал [когда взял/положил метку]
         self.vLayout_tab_log = QtWidgets.QVBoxLayout(self.tab_log)
         self.vLayout_tab_log.setObjectName("vLayout_tab_log")
@@ -490,10 +493,6 @@ class Ui_MainWindow(object):
         self.list_log = QtWidgets.QListWidget(self.tab_log)
 
         self.vLayout_tab_log.addWidget(self.list_log)
-
-
-
-
 
         self.verticalLayout_3.addWidget(self.tabWidget)
         self.stackedWidget.addWidget(self.page_admin_staff)
@@ -523,7 +522,8 @@ class Ui_MainWindow(object):
         spacerItem14 = QtWidgets.QSpacerItem(40, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
         self.Layout_keyboard_top.addItem(spacerItem14, 1, 0, 1, 1)
         self.btn_keyboard_home = QtWidgets.QPushButton(self.page_virtual_keyboard)
-        self.btn_keyboard_home.setMinimumSize(QtCore.QSize(160, 60))
+        self.btn_keyboard_home.setMinimumSize(QtCore.QSize(200, 80))
+
         self.btn_keyboard_home.setFont(font_btn)
         self.btn_keyboard_home.setObjectName("btn_keyboard_home")
         self.Layout_keyboard_top.addWidget(self.btn_keyboard_home, 1, 1, 1, 1)
@@ -617,9 +617,9 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "Postamat"))
-        self.lbl_board_info.setText(_translate("MainWindow", "TransNetIQ"))
+        self.lbl_board_info.setText(_translate("MainWindow", "        TransNetIQ"))
         self.lbl_home_info.setText(
-            _translate("MainWindow", "Приложите ключ-карту к считывателю и Ваша ячейка откроется."))
+            _translate("MainWindow", "Приложите ключ-карту к считывателю или отсканируйте QR-код."))
         self.btn_home_admin.setText(_translate("MainWindow", "Админ"))
         self.lbl_user_status.setText(_translate("MainWindow", "?"))
         self.btn_user_close.setText(_translate("MainWindow", "Отмена"))

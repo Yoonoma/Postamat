@@ -44,10 +44,10 @@ class MainWindow(QtWidgets.QMainWindow):
         self.init_tables(self.ui.table_user, "User")
 
         # Инициализация считывателей QR и RFID
-        self.qr_reader = Reader("thr-QR scanner ", Device.QR,
-                                self.get_scanner_data)  # Сканер QR
-        self.rfid_reader = Reader("thr-RFID scanner", Device.RFID,
-                                  self.get_scanner_data)  # Сканер RFID
+        # self.qr_reader = Reader("thr-QR scanner ", Device.QR,
+        #                         self.get_scanner_data)  # Сканер QR
+        # self.rfid_reader = Reader("thr-RFID scanner", Device.RFID,
+        #                           self.get_scanner_data)  # Сканер RFID
 
         # Статусы сканеров по умолчанию
         self.state_scanner_qr = ScannerState.user
@@ -100,6 +100,7 @@ class MainWindow(QtWidgets.QMainWindow):
         ####################################
         ## Тестирование
         # self.ui.stackedWidget.setCurrentWidget(self.ui.page_admin_staff)
+        self.ui.stackedWidget.setCurrentWidget(self.ui.page_virtual_keyboard)
 
         # Горячие клавиши завершения работы программы
         self.shortcut = QShortcut(QKeySequence("Ctrl+O"), self)
@@ -284,7 +285,7 @@ class MainWindow(QtWidgets.QMainWindow):
     def _showTime(self) -> None:
         current_time = QTime.currentTime()
         label_time = current_time.toString('hh:mm:ss')
-        self.ui.lbl_board_time.setText(label_time)
+        self.ui.lbl_board_time.setText(label_time + "         ")
 
     # Инициализация таблицы ключей + меток (id метки, RFID ключ, QR-Code ключ)
     def init_tables(self, table: QtWidgets.QTableWidget, name_table: str) -> None:
@@ -411,6 +412,7 @@ class MainWindow(QtWidgets.QMainWindow):
         msg = QMessageBox(self)
         msg.setWindowTitle(title)
         msg.setText(text)
+        msg.setFont(self.ui.font_btn_dialog)
         msg.setIcon(icon)
         QTimer.singleShot(60 * 1000, msg.close)  # Через 60 секунд QTimer вызовет mesg.close()
 
@@ -427,7 +429,7 @@ class MainWindow(QtWidgets.QMainWindow):
         lbl = QLabel(msg)
         lbl.setText(text)
         lbl.setAlignment(Qt.AlignCenter)
-        lbl.setStyleSheet("font-size: 18px")
+        lbl.setStyleSheet("font-size: 20px")
 
         # Сетка
         layout = QVBoxLayout(msg)

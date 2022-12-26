@@ -413,3 +413,92 @@
 2022-12-26T00:03:42.603071+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
 2022-12-26T00:03:44.156395+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.admin
 2022-12-26T00:03:44.156869+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
+2022-12-26T19:19:52.243506+0300 DEBUG Database is connected.
+2022-12-26T19:19:52.247562+0300 ERROR Cannot open serial port[/dev/ttyACM1] : [Errno 2] could not open port /dev/ttyACM1: [Errno 2] Нет такого файла или каталога: '/dev/ttyACM1'
+2022-12-26T19:19:56.069037+0300 DEBUG Database is connected.
+2022-12-26T19:19:56.072433+0300 ERROR Cannot open serial port[/dev/ttyACM1] : [Errno 2] could not open port /dev/ttyACM1: [Errno 2] Нет такого файла или каталога: '/dev/ttyACM1'
+2022-12-26T19:20:32.352337+0300 DEBUG Database is connected.
+2022-12-27T00:13:55.640168+0300 DEBUG Database is connected.
+2022-12-27T00:16:52.989107+0300 DEBUG Database is connected.
+2022-12-27T00:17:30.209119+0300 DEBUG Database is connected.
+2022-12-27T00:17:44.467924+0300 DEBUG Database is connected.
+2022-12-27T00:17:54.199651+0300 DEBUG Database is connected.
+2022-12-27T00:18:01.977594+0300 DEBUG Database is connected.
+2022-12-27T00:18:07.883290+0300 DEBUG Database is connected.
+2022-12-27T00:18:12.502932+0300 DEBUG Database is connected.
+2022-12-27T00:18:30.581322+0300 DEBUG Database is connected.
+2022-12-27T00:18:39.092622+0300 DEBUG Database is connected.
+2022-12-27T00:18:46.940025+0300 DEBUG Database is connected.
+2022-12-27T00:18:56.821816+0300 DEBUG Database is connected.
+2022-12-27T00:19:17.485040+0300 DEBUG Database is connected.
+2022-12-27T00:19:35.339410+0300 DEBUG Database is connected.
+2022-12-27T00:19:59.673532+0300 DEBUG Database is connected.
+2022-12-27T00:20:22.501459+0300 DEBUG Database is connected.
+2022-12-27T00:20:27.496049+0300 DEBUG Database is connected.
+2022-12-27T00:20:32.875420+0300 DEBUG Database is connected.
+2022-12-27T00:20:39.010514+0300 DEBUG Database is connected.
+2022-12-27T00:20:52.346984+0300 DEBUG Database is connected.
+2022-12-27T00:21:01.992024+0300 DEBUG Database is connected.
+2022-12-27T00:21:14.547030+0300 DEBUG Database is connected.
+2022-12-27T00:21:20.750698+0300 DEBUG Database is connected.
+2022-12-27T00:22:04.173693+0300 DEBUG Database is connected.
+2022-12-27T00:22:08.835201+0300 DEBUG Database is connected.
+2022-12-27T00:22:16.088457+0300 DEBUG Database is connected.
+2022-12-27T00:22:21.647943+0300 DEBUG Database is connected.
+2022-12-27T00:22:56.533874+0300 DEBUG Database is connected.
+2022-12-27T00:23:07.579042+0300 DEBUG Launch is admin panel.
+2022-12-27T00:24:53.502115+0300 DEBUG Database is connected.
+2022-12-27T00:25:01.106715+0300 DEBUG Database is connected.
+2022-12-27T00:25:12.632509+0300 DEBUG Database is connected.
+2022-12-27T00:25:15.626189+0300 DEBUG Database is connected.
+2022-12-27T00:25:21.065905+0300 DEBUG Database is connected.
+2022-12-27T00:25:30.365220+0300 DEBUG Database is connected.
+2022-12-27T00:25:41.607060+0300 DEBUG Launch is admin panel.
+2022-12-27T00:25:55.000836+0300 DEBUG Database is connected.
+2022-12-27T00:25:59.472986+0300 DEBUG Launch is admin panel.
+2022-12-27T00:26:13.017365+0300 DEBUG Database is connected.
+2022-12-27T00:26:23.164405+0300 DEBUG Database is connected.
+2022-12-27T00:26:31.283455+0300 DEBUG Database is connected.
+2022-12-27T00:26:36.275637+0300 DEBUG Launch is admin panel.
+2022-12-27T00:29:14.415950+0300 DEBUG Database is connected.
+2022-12-27T00:29:17.447467+0300 DEBUG Launch is admin panel.
+2022-12-27T00:29:52.605809+0300 DEBUG Database is connected.
+2022-12-27T00:29:59.002116+0300 DEBUG Database is connected.
+2022-12-27T00:31:53.643807+0300 DEBUG Database is connected.
+2022-12-27T00:32:09.427198+0300 DEBUG Database is connected.
+2022-12-27T00:32:16.541246+0300 DEBUG Database is connected.
+2022-12-27T00:32:29.090823+0300 DEBUG Database is connected.
+2022-12-27T00:33:37.518420+0300 DEBUG Database is connected.
+2022-12-27T00:36:01.069302+0300 DEBUG Database is connected.
+2022-12-27T00:36:09.001985+0300 DEBUG Database is connected.
+2022-12-27T00:36:42.676324+0300 DEBUG Database is connected.
+2022-12-27T00:37:13.325804+0300 DEBUG Database is connected.
+2022-12-27T00:37:17.509754+0300 DEBUG Database is connected.
+2022-12-27T00:38:49.743232+0300 DEBUG Database is connected.
+2022-12-27T00:39:39.584326+0300 DEBUG Database is connected.
+2022-12-27T00:39:54.418482+0300 DEBUG Database is connected.
+2022-12-27T00:40:08.030027+0300 DEBUG Database is connected.
+2022-12-27T00:40:16.619342+0300 DEBUG Database is connected.
+2022-12-27T00:41:06.053455+0300 DEBUG Database is connected.
+2022-12-27T00:41:11.279586+0300 DEBUG Database is connected.
+2022-12-27T00:41:16.494683+0300 DEBUG Database is connected.
+2022-12-27T00:41:36.666715+0300 DEBUG Database is connected.
+2022-12-27T00:41:43.805684+0300 DEBUG Database is connected.
+2022-12-27T00:41:51.341541+0300 DEBUG Database is connected.
+2022-12-27T00:42:22.230321+0300 DEBUG Database is connected.
+2022-12-27T00:42:55.002684+0300 DEBUG Database is connected.
+2022-12-27T00:43:01.097443+0300 DEBUG Database is connected.
+2022-12-27T00:45:06.327168+0300 DEBUG Database is connected.
+2022-12-27T00:45:19.543218+0300 DEBUG Database is connected.
+2022-12-27T00:45:36.692826+0300 DEBUG Database is connected.
+2022-12-27T00:45:45.405188+0300 DEBUG Database is connected.
+2022-12-27T00:45:52.529403+0300 DEBUG Database is connected.
+2022-12-27T00:46:00.374463+0300 DEBUG Database is connected.
+2022-12-27T00:46:08.518752+0300 DEBUG Launch is admin panel.
+2022-12-27T00:46:25.924275+0300 DEBUG Database is connected.
+2022-12-27T00:46:28.899004+0300 DEBUG Launch is admin panel.
+2022-12-27T00:47:10.109530+0300 DEBUG Database is connected.
+2022-12-27T00:47:50.566182+0300 DEBUG Database is connected.
+2022-12-27T00:48:03.996022+0300 DEBUG Launch is admin panel.
+2022-12-27T00:48:28.060886+0300 DEBUG Launch is admin panel.
+2022-12-27T00:50:01.849582+0300 DEBUG Database is connected.
