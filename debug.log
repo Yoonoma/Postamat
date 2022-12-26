@@ -1,0 +1,415 @@
+2022-12-25T22:00:47.862947+0300 DEBUG Database is connected.
+2022-12-25T22:00:47.866811+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:00:47.867002+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:00:47.873493+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:00:47.873675+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:00:50.733707+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T22:00:50.734449+0300 INFO Метку id_rfid:A2 AC 32 00 00 00 00 00 взяли в шкаф | время: [2019-12-14 02:44:25]
+2022-12-25T22:00:55.506301+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T22:00:57.124922+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T22:00:58.058503+0300 INFO Метку id_rfid:A2 AC 32 00 00 00 00 00 вернули в шкаф | время: [2019-12-14 02:44:25]
+2022-12-25T22:01:03.311803+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T22:01:06.890903+0300 DEBUG Launch is admin panel.
+2022-12-25T22:02:50.863813+0300 DEBUG Database is connected.
+2022-12-25T22:02:50.868305+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:02:50.868638+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:02:50.871181+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:02:50.871419+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:02:52.343384+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T22:02:52.344141+0300 INFO Метку [id_rfid:A2 AC 32 00 00 00 00 00] взяли в шкаф | время: [2019-12-14 02:44:25]
+2022-12-25T22:02:57.505617+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T22:02:59.218479+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T22:03:00.341853+0300 INFO Метку [id_rfid:A2 AC 32 00 00 00 00 00] вернули в шкаф | время: [2019-12-14 02:44:25]
+2022-12-25T22:03:05.506599+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T22:03:11.215275+0300 DEBUG Launch is admin panel.
+2022-12-25T22:03:46.758558+0300 DEBUG Database is connected.
+2022-12-25T22:03:46.763194+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:03:46.763520+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:03:46.766012+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:03:46.766222+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:03:49.796441+0300 DEBUG Launch is admin panel.
+2022-12-25T22:04:33.000528+0300 DEBUG Database is connected.
+2022-12-25T22:04:33.005164+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:04:33.005361+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:04:33.008369+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:04:33.008576+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:04:35.621832+0300 DEBUG Launch is admin panel.
+2022-12-25T22:04:40.861796+0300 DEBUG Delete id_tag - [6901443220687] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T22:05:14.400359+0300 DEBUG Database is connected.
+2022-12-25T22:05:14.404146+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:05:14.404390+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:05:14.407183+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:05:14.407404+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:05:17.541625+0300 DEBUG Launch is admin panel.
+2022-12-25T22:05:20.480566+0300 DEBUG Delete id_tag - [6901443220687867955042505609] | RFID-code - [87 A9 D7 00 00 00 00 00]
+2022-12-25T22:13:51.562562+0300 DEBUG Database is connected.
+2022-12-25T22:13:51.566437+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:13:51.566629+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:13:51.569321+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:13:51.569543+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:13:55.870772+0300 DEBUG Launch is admin panel.
+2022-12-25T22:14:37.214313+0300 DEBUG Database is connected.
+2022-12-25T22:14:37.218744+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:14:37.218943+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:14:37.221584+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:14:37.221754+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:14:49.284808+0300 DEBUG Database is connected.
+2022-12-25T22:14:49.290604+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:14:49.290998+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:14:49.293478+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:14:49.293815+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:20:52.000789+0300 DEBUG Database is connected.
+2022-12-25T22:20:52.004451+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:20:52.004656+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:20:52.007483+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:20:52.007713+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:20:56.754861+0300 DEBUG Launch is admin panel.
+2022-12-25T22:21:19.594411+0300 DEBUG Database is connected.
+2022-12-25T22:21:19.597953+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:21:19.598148+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:21:19.600976+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:21:19.601179+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:21:23.225458+0300 DEBUG Launch is admin panel.
+2022-12-25T22:21:25.986759+0300 DEBUG Delete id_tag - [f] | RFID-code - [dsfs]
+2022-12-25T22:21:31.533860+0300 DEBUG RFID scanned the key [87 A9 D7 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:21:36.507310+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:21:40.421696+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T22:21:43.060344+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T22:22:00.276766+0300 DEBUG RFID scanned the key [87 A9 D7 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:22:00.277154+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:22:05.734444+0300 DEBUG RFID scanned the key [87 A9 D7 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:22:05.734674+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:22:07.165407+0300 DEBUG RFID scanned the key [87 A9 D7 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:22:07.165892+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:22:12.187949+0300 DEBUG RFID scanned the key [B7 A3 D7 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:22:17.440476+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:22:17.466872+0300 DEBUG QR scanned the key [http://google.comwww.eslkidsgames.comhttps://www.qr-generator.nu] state - ScannerState.new_user
+2022-12-25T22:22:21.645288+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T22:22:28.920020+0300 DEBUG Database is connected.
+2022-12-25T22:22:28.924883+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:22:28.925116+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:22:28.927769+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:22:28.927979+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:22:31.860743+0300 DEBUG Launch is admin panel.
+2022-12-25T22:22:38.871171+0300 DEBUG RFID scanned the key [A9 6A D7 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:22:43.623311+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:22:43.897711+0300 DEBUG QR scanned the key [Hello] state - ScannerState.new_user
+2022-12-25T22:22:48.662632+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T22:23:37.406062+0300 DEBUG Database is connected.
+2022-12-25T22:23:37.410628+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:23:37.410818+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:23:37.413478+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:23:37.413651+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:23:42.069191+0300 DEBUG Launch is admin panel.
+2022-12-25T22:23:49.465233+0300 DEBUG RFID scanned the key [85 9E D7 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:23:54.507227+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:23:59.733636+0300 DEBUG QR scanned the key [Hellohttp://google.com] state - ScannerState.new_user
+2022-12-25T22:24:05.079647+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T22:24:11.877850+0300 DEBUG Delete id_tag - [6901443220687] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T22:24:13.956461+0300 DEBUG Delete id_tag - [6901443220687] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T22:24:17.290339+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:24:22.505563+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:24:27.254371+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T22:24:36.506391+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T22:26:47.610120+0300 DEBUG Database is connected.
+2022-12-25T22:26:47.613920+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:26:47.614135+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:26:47.616927+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:26:47.617172+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:26:50.563181+0300 DEBUG Launch is admin panel.
+2022-12-25T22:26:53.685764+0300 DEBUG Delete id_tag - [http://google.comwww.eslkidsgames.comhttps://www.qr-generator.nu] | RFID-code - [B7 A3 D7 00 00 00 00 00]
+2022-12-25T22:26:55.141301+0300 DEBUG Delete id_tag - [Hellohttp://google.com] | RFID-code - [85 9E D7 00 00 00 00 00]
+2022-12-25T22:26:56.894374+0300 DEBUG Delete id_tag - [6901443220687] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T22:26:58.853147+0300 DEBUG Delete id_tag - [Hello] | RFID-code - [A9 6A D7 00 00 00 00 00]
+2022-12-25T22:27:09.715034+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:27:14.506446+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:27:17.305360+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T22:27:24.809110+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T22:29:16.839907+0300 DEBUG Database is connected.
+2022-12-25T22:29:16.844210+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:29:16.844404+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:29:16.847090+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:29:16.847293+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:29:20.628688+0300 DEBUG Launch is admin panel.
+2022-12-25T22:29:27.394517+0300 DEBUG RFID scanned the key [85 9E D7 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:29:32.506990+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T22:29:38.556891+0300 DEBUG QR scanned the key [58938945] state - ScannerState.new_user
+2022-12-25T22:29:47.506419+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T22:32:09.772284+0300 DEBUG Database is connected.
+2022-12-25T22:32:09.776898+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:32:09.777093+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:32:09.779742+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:32:09.779927+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:32:14.148723+0300 DEBUG Launch is admin panel.
+2022-12-25T22:32:17.388331+0300 DEBUG Delete id_tag - [6901443220687] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T22:32:20.594931+0300 DEBUG Delete id_tag - [58938945] | RFID-code - [85 9E D7 00 00 00 00 00]
+2022-12-25T22:32:24.406955+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:32:27.663295+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T22:32:31.507391+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T22:32:31.508250+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
+2022-12-25T22:33:44.117161+0300 DEBUG Database is connected.
+2022-12-25T22:33:44.121049+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:33:44.121244+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:33:44.124280+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:33:44.124869+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:33:46.863146+0300 DEBUG Launch is admin panel.
+2022-12-25T22:33:49.060831+0300 DEBUG Delete id_tag - [6901443220687] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T22:33:51.594779+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T22:33:54.952188+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T22:33:59.008271+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T22:33:59.011500+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
+2022-12-25T22:58:24.645519+0300 DEBUG Database is connected.
+2022-12-25T22:59:15.961982+0300 DEBUG Database is connected.
+2022-12-25T22:59:45.464480+0300 DEBUG Database is connected.
+2022-12-25T22:59:45.470775+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T22:59:45.470979+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T22:59:45.477028+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T22:59:45.477797+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T22:59:48.799094+0300 DEBUG Launch is admin panel.
+2022-12-25T22:59:53.116615+0300 DEBUG Launch is admin panel.
+2022-12-25T23:00:37.194724+0300 DEBUG Database is connected.
+2022-12-25T23:00:37.200805+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:00:37.201126+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:00:37.203612+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:00:37.203862+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:00:41.041352+0300 DEBUG Launch is admin panel.
+2022-12-25T23:00:44.947395+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T23:00:48.209932+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T23:00:52.013961+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T23:00:52.014812+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
+2022-12-25T23:03:06.391603+0300 DEBUG Database is connected.
+2022-12-25T23:03:06.395851+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:03:06.396147+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:03:06.398724+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:03:06.398944+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:03:09.986019+0300 DEBUG Launch is admin panel.
+2022-12-25T23:03:12.213929+0300 DEBUG Delete key_tag - [0] | RFID-code - [6901443220687]
+2022-12-25T23:03:19.935400+0300 DEBUG Delete key_tag - [0] | RFID-code - [6901443220687]
+2022-12-25T23:03:21.425650+0300 DEBUG Delete key_tag - [0] | RFID-code - [6901443220687]
+2022-12-25T23:03:47.000039+0300 DEBUG Database is connected.
+2022-12-25T23:03:47.003917+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:03:47.004228+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:03:47.006966+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:03:47.007200+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:03:50.029177+0300 DEBUG Launch is admin panel.
+2022-12-25T23:03:52.298635+0300 DEBUG Delete key_tag - [6901443220687] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T23:04:30.964164+0300 DEBUG Database is connected.
+2022-12-25T23:04:30.968182+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:04:30.968382+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:04:30.976062+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:04:30.976428+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:04:33.805640+0300 DEBUG Launch is admin panel.
+2022-12-25T23:05:17.054616+0300 DEBUG Database is connected.
+2022-12-25T23:05:17.060296+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:05:17.060579+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:05:17.063177+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:05:17.063436+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:05:19.570429+0300 DEBUG Launch is admin panel.
+2022-12-25T23:05:22.527604+0300 DEBUG Delete key_tag - [0] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T23:05:46.416115+0300 DEBUG Database is connected.
+2022-12-25T23:05:46.421723+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:05:46.422076+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:05:46.424603+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:05:46.424888+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:05:48.903123+0300 DEBUG Launch is admin panel.
+2022-12-25T23:05:54.687872+0300 DEBUG Delete key_tag - [0] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T23:06:09.587509+0300 DEBUG Database is connected.
+2022-12-25T23:06:09.593266+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:06:09.593611+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:06:09.596184+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:06:09.596476+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:06:14.593731+0300 DEBUG Launch is admin panel.
+2022-12-25T23:07:12.806414+0300 DEBUG Database is connected.
+2022-12-25T23:07:12.810994+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:07:12.811168+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:07:12.813865+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:07:12.814028+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:07:15.598706+0300 DEBUG Launch is admin panel.
+2022-12-25T23:07:18.592096+0300 DEBUG Delete key_tag - [0] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T23:07:48.886379+0300 DEBUG Database is connected.
+2022-12-25T23:07:48.892324+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:07:48.892640+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:07:48.895171+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:07:48.895419+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:07:51.556391+0300 DEBUG Launch is admin panel.
+2022-12-25T23:08:23.384759+0300 DEBUG Database is connected.
+2022-12-25T23:08:23.388450+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:08:23.388640+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:08:23.396595+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:08:23.396781+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:08:25.934159+0300 DEBUG Launch is admin panel.
+2022-12-25T23:08:28.725882+0300 DEBUG Delete key_tag - [6901443220687] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T23:08:32.749322+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T23:08:35.540516+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T23:09:57.967616+0300 DEBUG Database is connected.
+2022-12-25T23:09:57.971737+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:09:57.971937+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:09:57.976277+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:09:57.976444+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:10:00.598291+0300 DEBUG Launch is admin panel.
+2022-12-25T23:10:04.512520+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T23:10:08.211273+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T23:10:36.499314+0300 DEBUG Database is connected.
+2022-12-25T23:10:36.505825+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:10:36.506113+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:10:36.508848+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:10:36.509071+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:10:40.406898+0300 DEBUG Launch is admin panel.
+2022-12-25T23:10:44.022812+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T23:10:47.574175+0300 DEBUG QR scanned the key [867955042539616] state - ScannerState.new_user
+2022-12-25T23:12:05.017490+0300 DEBUG Database is connected.
+2022-12-25T23:12:05.022436+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:12:05.022772+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:12:05.025111+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:12:05.025370+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:12:07.606048+0300 DEBUG Launch is admin panel.
+2022-12-25T23:12:11.131162+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T23:12:16.383119+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T23:12:17.001394+0300 DEBUG QR scanned the key [867955042505609867955042539616] state - ScannerState.new_user
+2022-12-25T23:12:42.547054+0300 DEBUG Database is connected.
+2022-12-25T23:12:42.551388+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:12:42.551774+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:12:42.554431+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:12:42.554683+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:12:45.643777+0300 DEBUG Launch is admin panel.
+2022-12-25T23:12:48.669993+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T23:12:53.506785+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T23:12:54.047077+0300 DEBUG QR scanned the key [6901443220687867955042505609] state - ScannerState.new_user
+2022-12-25T23:12:58.006474+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T23:13:02.366570+0300 DEBUG RFID scanned the key [A9 6A D7 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T23:13:07.506789+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T23:13:07.966418+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T23:13:12.006281+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T23:13:25.578954+0300 DEBUG Database is connected.
+2022-12-25T23:13:25.583666+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:13:25.583953+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:13:25.586534+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:13:25.586736+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:13:29.246945+0300 DEBUG Launch is admin panel.
+2022-12-25T23:13:31.544010+0300 DEBUG Delete key_tag - [6901443220687867955042505609] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-25T23:13:34.016736+0300 DEBUG Delete key_tag - [6901443220687] | RFID-code - [A9 6A D7 00 00 00 00 00]
+2022-12-25T23:13:37.903804+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T23:13:42.311467+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T23:13:46.507260+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-25T23:13:46.507964+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
+2022-12-25T23:17:25.364452+0300 DEBUG Database is connected.
+2022-12-25T23:17:25.368960+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:17:25.369323+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:17:25.371824+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:17:25.372097+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:17:28.503856+0300 DEBUG Launch is admin panel.
+2022-12-25T23:17:32.377335+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.admin
+2022-12-25T23:17:32.377671+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
+2022-12-25T23:17:35.702452+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T23:17:35.703353+0300 INFO Метку [id_rfid:A2 AC 32 00 00 00 00 00] взяли в шкаф | время: [2019-12-14 02:44:25]
+2022-12-25T23:17:40.507505+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T23:17:42.035071+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T23:17:42.709626+0300 INFO Метку [id_rfid:A2 AC 32 00 00 00 00 00] вернули в шкаф | время: [2019-12-14 02:44:25]
+2022-12-25T23:17:47.506378+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T23:18:39.682809+0300 DEBUG Database is connected.
+2022-12-25T23:18:39.686461+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:18:39.686666+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:18:39.689820+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:18:39.690008+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:18:42.047206+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T23:19:00.467897+0300 DEBUG Database is connected.
+2022-12-25T23:19:00.472279+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:19:00.472578+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:19:00.475177+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:19:00.475404+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:19:01.570418+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T23:19:01.571220+0300 INFO Метку [1:A2 AC 32 00 00 00 00 00] взяли в шкаф | время: [2019-12-14 02:44:25]
+2022-12-25T23:19:06.507225+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T23:19:11.492263+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T23:19:13.500195+0300 INFO Метку [1:A2 AC 32 00 00 00 00 00] вернули в шкаф | время: [2019-12-14 02:44:25]
+2022-12-25T23:19:18.507504+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T23:20:30.587494+0300 DEBUG Database is connected.
+2022-12-25T23:20:30.591728+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:20:30.591961+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:20:30.594563+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:20:30.594734+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:20:31.692709+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T23:20:31.693475+0300 INFO Метку №1 взяли в шкаф | id_rfid | время: [2019-12-14 02:44:25]
+2022-12-25T23:20:36.506689+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T23:20:38.493911+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T23:20:39.965557+0300 INFO Метку №1 вернули в шкаф | id_rfid | время: [2019-12-14 02:44:25]
+2022-12-25T23:20:44.125171+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T23:22:07.250501+0300 DEBUG Database is connected.
+2022-12-25T23:22:07.255001+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:22:07.255221+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:22:07.257862+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:22:07.258086+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:22:08.314784+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T23:22:08.315558+0300 INFO Метку №1 взяли в шкаф | с помощью  id_rfid | время: [2019-12-14 02:44:25]
+2022-12-25T23:22:13.506575+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T23:22:14.483002+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-25T23:22:16.867576+0300 INFO Метку №1 вернули в шкаф | с помощью  id_rfid | время: [2019-12-14 02:44:25]
+2022-12-25T23:22:21.620898+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-25T23:22:25.365340+0300 DEBUG Launch is admin panel.
+2022-12-25T23:29:18.035337+0300 DEBUG Database is connected.
+2022-12-25T23:29:18.041206+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:29:18.041504+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:29:18.044063+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:29:18.044321+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:29:20.729678+0300 DEBUG Launch is admin panel.
+2022-12-25T23:57:36.846684+0300 DEBUG Database is connected.
+2022-12-25T23:57:36.850376+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:57:36.850642+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:57:36.856575+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:57:36.856824+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:57:55.236240+0300 DEBUG Database is connected.
+2022-12-25T23:57:55.240180+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:57:55.240441+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:57:55.243558+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:57:55.244964+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:58:17.768316+0300 DEBUG Database is connected.
+2022-12-25T23:58:17.772738+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:58:17.773006+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:58:17.776891+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:58:17.778024+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:58:43.129302+0300 DEBUG Database is connected.
+2022-12-25T23:58:43.133074+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:58:43.133434+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:58:43.136093+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:58:43.136399+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:58:54.978031+0300 DEBUG Database is connected.
+2022-12-25T23:58:54.984015+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:58:54.984335+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:58:54.986906+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:58:54.987134+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:59:09.250985+0300 DEBUG Database is connected.
+2022-12-25T23:59:09.255741+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-25T23:59:09.256074+0300 DEBUG Start scanner [Device.QR]
+2022-12-25T23:59:09.258600+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-25T23:59:09.258844+0300 DEBUG Start scanner [Device.RFID]
+2022-12-25T23:59:13.572154+0300 DEBUG Launch is admin panel.
+2022-12-25T23:59:24.987937+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-25T23:59:29.741066+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-25T23:59:30.443043+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-25T23:59:31.701705+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-26T00:01:02.766014+0300 DEBUG Database is connected.
+2022-12-26T00:01:02.771483+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-26T00:01:02.771787+0300 DEBUG Start scanner [Device.QR]
+2022-12-26T00:01:02.774353+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-26T00:01:02.774608+0300 DEBUG Start scanner [Device.RFID]
+2022-12-26T00:01:07.114897+0300 DEBUG Launch is admin panel.
+2022-12-26T00:01:10.427778+0300 DEBUG Delete key_tag - [6901443220687] | RFID-code - [A2 AC 32 00 00 00 00 00]
+2022-12-26T00:01:13.018631+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.new_user
+2022-12-26T00:01:18.270901+0300 DEBUG RFID scanned the key [] state - ScannerState.new_user
+2022-12-26T00:01:19.170918+0300 DEBUG QR scanned the key [6901443220687] state - ScannerState.new_user
+2022-12-26T00:01:23.007404+0300 DEBUG QR scanned the key [] state - ScannerState.admin
+2022-12-26T00:03:24.076537+0300 DEBUG Database is connected.
+2022-12-26T00:03:24.080522+0300 DEBUG Open serial port[/dev/ttyACM1]
+2022-12-26T00:03:24.080928+0300 DEBUG Start scanner [Device.QR]
+2022-12-26T00:03:24.083580+0300 DEBUG Open serial port[/dev/ttyACM0]
+2022-12-26T00:03:24.083847+0300 DEBUG Start scanner [Device.RFID]
+2022-12-26T00:03:27.028188+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.user
+2022-12-26T00:03:27.029096+0300 INFO Метку №1 взяли в шкаф | с помощью  id_rfid | время: [2019-12-14 02:44:25]
+2022-12-26T00:03:32.283039+0300 DEBUG RFID scanned the key [] state - ScannerState.user
+2022-12-26T00:03:38.989223+0300 DEBUG Launch is admin panel.
+2022-12-26T00:03:40.961220+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.admin
+2022-12-26T00:03:40.961460+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
+2022-12-26T00:03:42.602623+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.admin
+2022-12-26T00:03:42.603071+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
+2022-12-26T00:03:44.156395+0300 DEBUG RFID scanned the key [A2 AC 32 00 00 00 00 00] state - ScannerState.admin
+2022-12-26T00:03:44.156869+0300 DEBUG RFID scanned the key [] state - ScannerState.admin
