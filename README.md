@@ -2,7 +2,7 @@
 Install touchscreen
 Download and install the eGTouch driver.
 
-wget https://www.eeti.com/touch_driver/Linux/20210716/eGTouch_v2.5.10206.L-x.tar.gz
+wget https://www.eeti.com/touch_driver/Linux/20210716/eGTouch_v2.5.10206.L-ma.tar.gz
 Extract the tarball
 
 tar zxvf eGTouch_v2.5.10206.L-ma.tar.gz
